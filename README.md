@@ -8,8 +8,8 @@ Index
    - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#points)
 
 ## Team:
-<a href="https://www.linkedin.com/in/dimitriosvpapadopoulos/"> Papadopoulos V. Dimitrios(me) </a>
-<a href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
+- <a href="https://www.linkedin.com/in/dimitriosvpapadopoulos/"> Papadopoulos V. Dimitrios(me) </a>
+- <a href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
    
 ## Task
 <a href="https://codingcompetitions.withgoogle.com/hashcode/archive#y2017"> Google #HashCode 2017 </a>
