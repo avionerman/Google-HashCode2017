@@ -7,9 +7,9 @@ Index
    - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
 
 ## Team Members:
-1) Dimitrios V. Papadopoulos
-2) <a> Panteleimon Stamatakis <a/>
-
+1) <a href="https://www.linkedin.com/in/dimitriosvpapadopoulos/"> Papadopoulos V. Dimitrios(me) </a>
+2) <a href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
+   
 ## Technologies:
 1) Python3
 2) KnapSack algorithm
