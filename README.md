@@ -4,7 +4,7 @@
 
    - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#team)
    - [Problem Description](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#task)
-   - [Technologies](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
+   - [Solution](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#solution)
    - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#points)
 
 ## Team
@@ -15,9 +15,8 @@ We participated as 3rd year students of Applied Informatics Department, Universi
 ## Task
 <a href="https://codingcompetitions.withgoogle.com/hashcode/archive#y2017"> Google #HashCode 2017 </a>
    
-## Technologies
-- Python3
-- KnapSack algorithm
+## Solution
+KnapSack algorithm
 
 ## Points
 The global winner of the competition had 2.659.140 points, while we had 1.224.745 points.
