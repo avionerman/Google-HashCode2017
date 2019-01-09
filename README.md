@@ -16,7 +16,7 @@ We participated as 3rd year students of Applied Informatics Department, Universi
 <a href="https://codingcompetitions.withgoogle.com/hashcode/archive#y2017"> Google #HashCode 2017 </a>
    
 ## Solution
-<div style="color:red"> KnapSack algorithm </div>
+<p style="text-color:red"> KnapSack Algorithm </p>
 
 ## Points
 The global winner of the competition had 2.659.140 points, while we had 1.224.745 points.
