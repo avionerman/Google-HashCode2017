@@ -2,7 +2,7 @@
 
 Index
 
-   - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#Team Members)
+   - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#Team_Members)
    - [Problem Description](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
    - [Technologies](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
    - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#points)
