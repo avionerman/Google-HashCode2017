@@ -2,10 +2,10 @@
 
 Index
 
-   - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#teammembers)
+   - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#Team Members)
    - [Problem Description](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
    - [Technologies](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
-   - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
+   - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#points)
 
 https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/qualification_round_2017.in.zip
 
