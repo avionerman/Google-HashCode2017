@@ -8,7 +8,7 @@
    - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#points)
 
 ## Team
-We participated as students of the 3rd year of Applied Informatics Department of the University of Macedonia, Greece.
+We participated as 3rd year students of Applied Informatics Department, University of Macedonia (Greece).
 - <a href="https://www.linkedin.com/in/dimitriosvpapadopoulos/"> Papadopoulos V. Dimitrios(me) </a>
 - <a href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
    
