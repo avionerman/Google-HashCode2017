@@ -2,9 +2,13 @@
 
 Index
 
+   - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
    - [Technologies](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
    - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
 
+## Team Members:
+1) Dimitrios V. Papadopoulos
+2) <a> Panteleimon Stamatakis <a/>
 
 ## Technologies:
 1) Python3
