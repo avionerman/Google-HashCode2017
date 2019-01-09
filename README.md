@@ -14,7 +14,7 @@ https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/q
 <a href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
    
 ## Task
-<a https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/hashcode2017_qualification_task.pdf"> Google #HashCode 2017 </a>
+<a href="https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/hashcode2017_qualification_task.pdf"> Google #HashCode 2017 </a>
    
 ## Technologies:
 Python3
