@@ -21,4 +21,7 @@ We participated as 3rd year students of Applied Informatics Department, Universi
 ## Points
 The global winner of the competition had 2.659.140 points, while we had 1.224.745 points.
 
+
+
+
 Do not hesitate to contact me for any additional information using my email papadopoulos.v.dimitris@gmail.com or my LinkedIn profile https://www.linkedin.com/in/dimitriosvpapadopoulos/ :wink:
