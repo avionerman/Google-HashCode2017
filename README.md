@@ -2,18 +2,18 @@
 
 Index
 
-   - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#Team_Members)
-   - [Problem Description](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
+   - [Team Members](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#team)
+   - [Problem Description](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#task)
    - [Technologies](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#technologies)
    - [Points](https://github.com/avionerman/Google-HashCode2017/blob/master/README.md#points)
 
 https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/qualification_round_2017.in.zip
 
-## Team Members:
+## Team:
 <a href="https://www.linkedin.com/in/dimitriosvpapadopoulos/"> Papadopoulos V. Dimitrios(me) </a>
 <a href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
    
-## Problem Description
+## Task
 <a https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/hashcode2017_qualification_task.pdf"> Google #HashCode 2017 </a>
    
 ## Technologies:
