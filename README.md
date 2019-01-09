@@ -17,8 +17,8 @@ https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/q
 <a href="https://storage.googleapis.com/coding-competitions-staging.appspot.com/HC/2017/hashcode2017_qualification_task.pdf"> Google #HashCode 2017 </a>
    
 ## Technologies:
-Python3
-KnapSack algorithm
+- Python3
+- KnapSack algorithm
 
 ## Points:
 The global winner of the competition had 2.659.140 points, while we had 1.224.745 points.
