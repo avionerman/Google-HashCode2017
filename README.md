@@ -16,8 +16,10 @@ We participated as 3rd year students of Applied Informatics Department, Universi
 <a href="https://codingcompetitions.withgoogle.com/hashcode/archive#y2017"> Google #HashCode 2017 </a>
    
 ## Solution
-- <a style="color:red" href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
-
+```
+diff
+- KnapSack Algorithm
+```
 ## Points
 The global winner of the competition had 2.659.140 points, while we had 1.224.745 points.
 
