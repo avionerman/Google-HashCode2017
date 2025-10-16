@@ -9,7 +9,7 @@
 
 ## Team
 We participated as 3rd year students of Applied Informatics Department, University of Macedonia (Greece).
-- <a href="https://www.linkedin.com/in/dimitriosvpapadopoulos/"> Papadopoulos V. Dimitrios(me) </a>
+- <a href="https://www.linkedin.com/in/dimitriosvpapadopoulos/"> Papadopoulos V. Dimitrios </a>
 - <a href="https://www.linkedin.com/in/panteleimon/"> Panteleimon Stamatakis </a>
    
 ## Task
